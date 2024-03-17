@@ -3,14 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "personal_website"
+  title: "Wilson de Oliveira Souza"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - tips.qmd
-      - trends.qmd
+      - About.qmd
+      - Tools.qmd
+      - Tips.qmd
+      - Texts.qmd
+      - Techs.qmd
+      - Trends.qmd
+      - Tuts.qmd
 
 format:
   html:
