@@ -8,13 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - About.qmd
-      - Tools.qmd
-      - Tips.qmd
-      - Texts.qmd
-      - Techs.qmd
-      - Trends.qmd
-      - Tuts.qmd
+      - about.qmd
+      - tools.qmd
+      - tips.qmd
+      - texts.qmd
+      - techs.qmd
+      - trends.qmd
+      - tuts.qmd
 
 format:
   html:
