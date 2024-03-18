@@ -8,10 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - tools.qmd
       - tips.qmd
-      - texts.qmd
       - techs.qmd
       - trends.qmd
       - tuts.qmd
